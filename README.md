@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NItish</h1>
+<h1 align="center">Hi 👋, I'm Nitish</h1>
 <h3 align="center">A Journey to Full stack devloper | CSE/2k22-2k26</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
