@@ -16,7 +16,10 @@ I’m Nitish Kumar, a third-year Computer Science Engineering student at Cambrid
 ![](https://github-profile-trophy.vercel.app/?username=Nitish-kumar&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"In programming the hard part isn't solving problems,<br>
+but deciding what problems to solve."
+
+-Nitish Kumar(programmer)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nitish-kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
